@@ -1,0 +1,58 @@
+.student h1{
+    text-align: center;
+    margin-top: 90px;
+    height: 50px;
+    font-size: 60px;
+    font-style: italic;
+}
+.student p{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+.student input {
+ background-color: rgb(249, 235, 229);
+ width:280px; 
+ height:60px;
+ border: 1;
+ font-size: 25px;
+}
+
+input::placeholder {
+    font-size: 25px; 
+    line-height: 1.2;
+  }
+button{
+    height: 50px;
+    width: 70px;
+    background-color: rgba(255, 49, 169, 0.898);
+    font-weight: bold;
+    color: rgb(14, 17, 19);
+   border-radius: 20px;
+  font-size: 18px;
+}
+.body{
+    background-color: rgb(6, 6, 6);
+    width: 350px;
+    height: 480px;
+    text-align: center;
+    margin-left: 40%;
+}
+
+button:hover{
+    background-color: #ff92c5;
+    
+  }
+body{
+ background-image: url(https://img.freepik.com/premium-vector/spotlights-set-isolated-transparent-background-vector-glowing-light-effect-with-golden-rays_506110-156.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+ border-radius: 50px;
+  }
+
+
+
+
+
+
